@@ -6,7 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "pages:build": "next-on-pages",
-    "deploy": "wrangler pages deploy .output --project-name=ive-malaysia-fanbase-website",
+    "deploy": "wrangler pages deploy .output --project-name=ive-malaysia-fanbase-website", 
     "start": "next start",
     "lint": "next lint"
   },
